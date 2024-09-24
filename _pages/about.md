@@ -24,7 +24,7 @@ Publications & Presentations
 =====
 
 **Analyzing Large Language Models’ Accuracy In Predicting Recipe Steps**  
-**Xiao Lin Zheng**
+**Xiao Lin Zheng**  
 _Oral presentation at the Syracuse University Annual Summer McNair Symposium (2024)_
 
 
@@ -35,7 +35,7 @@ _Accepted to EMNLP 2023 Findings_
 
 
 **SOTA Models' Capability in Building a Talk, Watch and Guide Task-Assisted System**  
-**Xiao Lin Zheng**
+**Xiao Lin Zheng**  
 _Oral presentation at the University of Michigan Summer Research Opportunity Program Symposium (2023)_
 
 

@@ -11,6 +11,8 @@ Hey! I'm Xiao Lin, originally from Guangdong, China, and now based in Brooklyn, 
 
 Education
 ======
+Syracuse Logo.jpg
+
 - 2021.08 - 2025.05
   - B.S. in Computer Science
   - Syracuse University

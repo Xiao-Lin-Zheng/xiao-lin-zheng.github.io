@@ -8,11 +8,11 @@ main:
   - title: "My Journey"
     url: /publications/
 
-  - title: "Work Experiences"
-    url: /talks/    
+#  - title: "Work Experiences"
+#    url: /talks/    
 
-  - title: "Publications & Presentations"
-    url: /teaching/    
+#  - title: "Publications & Presentations"
+#    url: /teaching/    
     
   - title: "Projects"
     url: /portfolio/

@@ -20,17 +20,5 @@ Education
   - Study Abroad at Syracuse University London
 
 
-Extracurricular Activities
-======
----
-- Scholar, Ronald E. McNair Post Baccalaureate Achievement Program
- - 2024-04 - Present
- - Syracuse University
----
-- Conducted academic research under the McNair Scholars Program, gaining valuable experience in research methodologies and data analysis
-- Participated in professional development workshops and mentorship programs aimed at preparing for graduate studies
-
-
-
 Honors & Awards
 ======

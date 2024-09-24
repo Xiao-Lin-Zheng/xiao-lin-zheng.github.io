@@ -20,24 +20,23 @@ Education
 - 2023.08 - 2023.12
   - Study Abroad at Syracuse University London
 
-## Publications & Presentations
+Publications & Presentations
+=====
 
 **Analyzing Large Language Models’ Accuracy In Predicting Recipe Steps**  
 **Xiao Lin Zheng**
-Oral presentation at the Syracuse University Annual Summer McNair Symposium (2024)
+_Oral presentation at the Syracuse University Annual Summer McNair Symposium (2024)_
 
----
 
 **Can Foundation Models Watch, Talk and Guide You Step by Step to Make a Cake?**  
 Yuwei Bao, Keunwoo Peter Yu, Yichi Zhang, Shane Storks, Itamar Bar-Yossef, Alexander De La Iglesia, Megan Su, **Xiao Lin Zheng**, Joyce Chai  
 _Accepted to EMNLP 2023 Findings_  
 [paper](https://arxiv.org/abs/2311.00738)
 
----
 
 **SOTA Models' Capability in Building a Talk, Watch and Guide Task-Assisted System**  
 **Xiao Lin Zheng**
-Oral presentation at the University of Michigan Summer Research Opportunity Program Symposium (2023)
+_Oral presentation at the University of Michigan Summer Research Opportunity Program Symposium (2023)_
 
 
 Honors & Awards

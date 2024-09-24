@@ -66,3 +66,8 @@ _May 2023 – August 2023_
 
 Honors & Awards
 ======
+- McNair Scholarship (2024 - 2025)
+- Dean's List (Spring 2024)
+- The James Capolongo Engineering Scholarship (2023)
+- Deans Scholarship (2021 - 2025)
+- Kessler Scholarship (2021 - 2025)

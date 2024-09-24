@@ -21,7 +21,7 @@ Education
   - Study Abroad at Syracuse University London
 
 Publications & Presentations
-=====
+======
 
 **Analyzing Large Language Models’ Accuracy In Predicting Recipe Steps**  
 **Xiao Lin Zheng**  
@@ -37,6 +37,24 @@ _Accepted to EMNLP 2023 Findings_
 **SOTA Models' Capability in Building a Talk, Watch and Guide Task-Assisted System**  
 **Xiao Lin Zheng**  
 _Oral presentation at the University of Michigan Summer Research Opportunity Program Symposium (2023)_
+
+Experience
+======
+**Research Assistant**  
+• Syracuse University, Syracuse, NY  
+• Work in SHAN Research Group  
+• Mentor: Dr. Wanliang Shan  
+_September 2024 – Present_  
+
+**Digital Product Executive Fall Intern**  
+• Hyve Group, London, UK
+_September 2023 – December 2023_
+
+**Research Assistant**  
+• University of Michigan - Ann Arbor, Ann Arbor, MI  
+• Work in SLED Lab  
+• Mentor: Dr. Joyce Chai, Yuwei Bao (PhD Student)  
+_May 2023 – August 2023_  
 
 
 Honors & Awards

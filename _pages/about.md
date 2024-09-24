@@ -19,7 +19,7 @@ _B.S. in Computer Science_
 _2021.08 - 2025.05_  
 
 
-**Study Abroad at Syracuse University London**
+**Study Abroad at Syracuse University London**  
 _2023.08 - 2023.12_
 
 

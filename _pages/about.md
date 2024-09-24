@@ -71,3 +71,32 @@ Honors & Awards
 - The James Capolongo Engineering Scholarship (2023)
 - Deans Scholarship (2021 - 2025)
 - Kessler Scholarship (2021 - 2025)
+
+
+
+Extra-Curriculum
+======
+_McNair Scholar_  
+2024.04 - Present  
+Ronald E. McNair Post Baccalaureate Achievement Program  
+Syracuse University, Syracuse, NY  
+
+_Director of International Students Affairs_  
+2024.04 - Present  
+Student Association  
+Syracuse University, Syracuse, NY  
+
+_Member_  
+2022.09 - Present  
+CuseKrew  
+Syracuse University, Syracuse, NY  
+
+_Kessler Scholar_  
+2021.08 - Present  
+Kessler Presidential Scholars Program  
+Syracuse University, Syracuse, NY  
+
+_Member_  
+2022.09 - 2023.05  
+Women in Science and Engineering - Career Preparation Program  
+Syracuse University, Syracuse, NY  

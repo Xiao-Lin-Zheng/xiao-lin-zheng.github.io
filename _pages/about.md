@@ -47,7 +47,7 @@ Experience
 _September 2024 – Present_  
 
 **Digital Product Executive Fall Intern**  
-• Hyve Group, London, UK
+• Hyve Group, London, UK  
 _September 2023 – December 2023_
 
 **Research Assistant**  

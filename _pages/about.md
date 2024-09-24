@@ -23,7 +23,7 @@ Education
 Extracurricular Activities
 ======
 ---
-title: "Scholar, Ronald E. McNair Post Baccalaureate Achievement Program"
+"Scholar, Ronald E. McNair Post Baccalaureate Achievement Program"
 date: 2024-04 - Present
 location: "Syracuse University"
 ---

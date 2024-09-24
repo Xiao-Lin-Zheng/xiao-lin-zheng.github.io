@@ -11,7 +11,7 @@ Hey! I'm Xiao Lin, originally from Guangdong, China, and now based in Brooklyn, 
 
 Education
 ======
-![image](https://github.com/user-attachments/assets/0af6793b-fe08-4013-ae08-68364e31a63c)
+<img src="./images/syracuse_logo.jpg" alt="Syracuse University" width="100" style="display:inline;"/>  
 
 - 2021.08 - 2025.05
   - B.S. in Computer Science

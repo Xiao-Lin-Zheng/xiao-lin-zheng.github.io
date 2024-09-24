@@ -12,7 +12,7 @@ Hey! I'm Xiao Lin, originally from Guangdong, China, and now based in Brooklyn, 
 Education
 ======
 - 2021.08 - 2025.05
-  - B.S in Computer Science
+  - B.S. in Computer Science
   - Syracuse University
   - McNair Scholar | Kessler Scholar | Director of International Student Affairs - Student Association | WiSE-CPP | SLED Lab | SHAN Research Group
 

@@ -14,7 +14,7 @@ Education
 - 2021.08 - 2025.05
   - B.S. in Computer Science
   - Syracuse University
-  - McNair Scholar || Kessler Scholar || Director of International Student Affairs - Student Association || WiSE-CPP || SLED Lab || SHAN Research Group
+
 
 - 2023.08 - 2023.12
   - Study Abroad at Syracuse University London
@@ -24,5 +24,5 @@ Extracurricular Activities
 ======
 
 
-Awards & Honors
+Honors & Awards
 ------

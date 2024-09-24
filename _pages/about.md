@@ -9,6 +9,8 @@ redirect_from:
 
 Hey! I'm Xiao Lin, originally from Guangdong, China, and now based in Brooklyn, New York. I’m majoring in Computer Science at Syracuse University, where I’m a proud McNair, Kessler Scholar, member of WiSE-CPP, and Director of International Student Affairs in Student Association. Beyond academics, I love dancing, crocheting, cooking, and baking. I’ve interned at Hyve Group, worked as a research assistant at the University of Michigan’s SLED lab, and I’m currently part of the SHAN Research Group at Syracuse University. Thanks for stopping by!
 
+
+
 Education
 ======
 
@@ -19,6 +21,8 @@ Education
 
 - 2023.08 - 2023.12
   - Study Abroad at Syracuse University London
+
+
 
 Publications & Presentations
 ======
@@ -38,6 +42,8 @@ _Accepted to EMNLP 2023 Findings_
 **Xiao Lin Zheng**  
 _Oral presentation at the University of Michigan Summer Research Opportunity Program Symposium (2023)_
 
+
+
 Experience
 ======
 **Research Assistant**  
@@ -53,8 +59,9 @@ _September 2023 – December 2023_
 **Research Assistant**  
 • University of Michigan - Ann Arbor, Ann Arbor, MI  
 • Work in SLED Lab  
-• Mentor: Dr. Joyce Chai, Yuwei Bao (PhD Student)  
+• Mentors: Dr. Joyce Chai, Yuwei Bao (PhD Student)  
 _May 2023 – August 2023_  
+
 
 
 Honors & Awards

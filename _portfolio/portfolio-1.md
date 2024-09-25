@@ -1,7 +1,14 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
-collection: portfolio
+title: "OrangeNest (In Progress)"  
+collection: portfolio  
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+OrangeNest is a platform made for Syracuse University students to easily find apartments near campus. It helps students quickly browse local listings and connect with off-campus housing options.  
+
+
+---
+title: "Roomba Project"  
+collection: portfolio  
+---
+
+Developed a variant of the Roomba domain using search algorithms and heuristics in Python. Implemented queue-based search with a custom heuristic that optimized Roomba's path to clean all dirty squares and return to the charger, while managing power constraints and minimizing node exploration.

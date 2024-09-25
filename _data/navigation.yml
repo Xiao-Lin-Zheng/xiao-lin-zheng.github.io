@@ -5,8 +5,8 @@
 # prevent it from being included in the site.
 
 main:
-  - title: "My Journey"
-    url: /publications/
+#  - title: "My Journey"
+#    url: /publications/
 
 #  - title: "Work Experiences"
 #    url: /talks/    
